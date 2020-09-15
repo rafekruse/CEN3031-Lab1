@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp1",
+  "version": "1.0.0",
+  "description": "Introduction to HTTP and Asynchronous Programming using Node.js",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "authors": [
+    {
+      "name": "Edward Mensah"
+    }
+  ],
+  "license": "MIT"
+}
